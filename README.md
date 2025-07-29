@@ -44,4 +44,4 @@ Project_NLP/
 ├── model/                  # LSTM 모델 정의 및 저장
 ├── notebook/               # 실험용 Jupyter 노트북
 ├── sample.py               # 전체 실행 파이썬 스크립트
-└── README.md               # 이 문서
+└── README.md               
